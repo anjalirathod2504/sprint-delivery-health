@@ -26,6 +26,10 @@ Reports are tagged **Green / Amber / Red** for quick executive reading.
 
 ## Quick start
 
+**Easiest:** install the requirements, then run `python main.py`. It runs the whole project and prints where the results are.
+
+Step by step:
+
 ```bash
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

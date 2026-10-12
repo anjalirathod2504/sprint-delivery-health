@@ -1,0 +1,259 @@
+issue_key,sprint,sprint_start,sprint_end,team,issue_type,assignee,story_points,due_date,resolved_date,status,blocked_days
+PRJ-101,Sprint 1,2026-01-05,2026-01-18,Software Dev,Bug,dev_e,3,2026-01-16,,In Progress,0
+PRJ-102,Sprint 1,2026-01-05,2026-01-18,Software Dev,Bug,dev_e,5,2026-01-16,2026-01-16,Done,0
+PRJ-103,Sprint 1,2026-01-05,2026-01-18,Software Dev,Story,dev_f,5,2026-01-15,2026-01-15,Done,0
+PRJ-104,Sprint 1,2026-01-05,2026-01-18,Software Dev,Bug,dev_e,3,2026-01-17,2026-01-18,Done,0
+PRJ-105,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_f,2,2026-01-16,2026-01-15,Done,3
+PRJ-106,Sprint 1,2026-01-05,2026-01-18,Software Dev,Story,dev_b,8,2026-01-12,2026-01-11,Done,0
+PRJ-107,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_b,3,2026-01-11,2026-01-12,Done,0
+PRJ-108,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_e,2,2026-01-16,,In Progress,0
+PRJ-109,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_b,1,2026-01-17,2026-01-17,Done,0
+PRJ-110,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_c,5,2026-01-14,2026-01-13,Done,3
+PRJ-111,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_e,3,2026-01-13,2026-01-13,Done,0
+PRJ-112,Sprint 1,2026-01-05,2026-01-18,Software Dev,Bug,dev_a,1,2026-01-11,2026-01-11,Done,1
+PRJ-113,Sprint 1,2026-01-05,2026-01-18,Software Dev,Task,dev_b,1,2026-01-17,2026-01-17,Done,0
+PRJ-114,Sprint 1,2026-01-05,2026-01-18,Software Dev,Story,dev_c,3,2026-01-12,,In Progress,4
+PRJ-115,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_a,3,2026-01-15,2026-01-15,Done,1
+PRJ-116,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_c,2,2026-01-12,2026-01-10,Done,0
+PRJ-117,Sprint 1,2026-01-05,2026-01-18,Business Dev,Task,bd_b,8,2026-01-18,2026-01-18,Done,0
+PRJ-118,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_e,3,2026-01-15,2026-01-17,Done,1
+PRJ-119,Sprint 1,2026-01-05,2026-01-18,Business Dev,Task,bd_d,2,2026-01-16,2026-01-17,Done,0
+PRJ-120,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_d,3,2026-01-11,2026-01-09,Done,0
+PRJ-121,Sprint 1,2026-01-05,2026-01-18,Business Dev,Task,bd_c,1,2026-01-09,2026-01-08,Done,4
+PRJ-122,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_a,8,2026-01-09,2026-01-09,Done,0
+PRJ-123,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_c,3,2026-01-18,,In Progress,4
+PRJ-124,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_c,3,2026-01-13,2026-01-13,Done,0
+PRJ-125,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_e,1,2026-01-12,,In Progress,3
+PRJ-126,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_d,2,2026-01-15,2026-01-16,Done,0
+PRJ-127,Sprint 1,2026-01-05,2026-01-18,Business Dev,Task,bd_c,2,2026-01-18,2026-01-18,Done,0
+PRJ-128,Sprint 1,2026-01-05,2026-01-18,Business Dev,Story,bd_f,2,2026-01-16,,In Progress,0
+PRJ-129,Sprint 1,2026-01-05,2026-01-18,Business Dev,Bug,bd_a,2,2026-01-18,2026-01-18,Done,0
+PRJ-130,Sprint 1,2026-01-05,2026-01-18,Business Dev,Task,bd_c,5,2026-01-16,,In Progress,0
+PRJ-131,Sprint 1,2026-01-05,2026-01-18,Business Dev,Bug,bd_f,2,2026-01-15,2026-01-14,Done,0
+PRJ-132,Sprint 1,2026-01-05,2026-01-18,Business Dev,Task,bd_e,1,2026-01-10,,In Progress,4
+PRJ-133,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_f,2,2026-01-24,2026-01-24,Done,0
+PRJ-134,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_f,2,2026-01-22,2026-01-21,Done,0
+PRJ-135,Sprint 2,2026-01-19,2026-02-01,Software Dev,Task,dev_e,3,2026-01-29,2026-01-30,Done,0
+PRJ-136,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_d,1,2026-01-23,,In Progress,0
+PRJ-137,Sprint 2,2026-01-19,2026-02-01,Software Dev,Task,dev_a,8,2026-01-29,2026-01-27,Done,0
+PRJ-138,Sprint 2,2026-01-19,2026-02-01,Software Dev,Task,dev_b,1,2026-01-28,2026-01-31,Done,0
+PRJ-139,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_b,5,2026-02-01,2026-01-30,Done,0
+PRJ-140,Sprint 2,2026-01-19,2026-02-01,Software Dev,Bug,dev_e,5,2026-01-31,2026-01-31,Done,0
+PRJ-141,Sprint 2,2026-01-19,2026-02-01,Software Dev,Bug,dev_b,3,2026-01-28,2026-01-28,Done,0
+PRJ-142,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_f,2,2026-01-26,2026-01-27,Done,0
+PRJ-143,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_f,3,2026-01-22,2026-01-22,Done,0
+PRJ-144,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_e,2,2026-02-01,2026-01-31,Done,1
+PRJ-145,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_a,2,2026-01-31,2026-01-31,Done,0
+PRJ-146,Sprint 2,2026-01-19,2026-02-01,Software Dev,Story,dev_f,3,2026-01-30,,In Progress,1
+PRJ-147,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_c,3,2026-02-01,2026-02-01,Done,0
+PRJ-148,Sprint 2,2026-01-19,2026-02-01,Business Dev,Bug,bd_a,5,2026-01-23,,To Do,1
+PRJ-149,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_e,5,2026-02-01,2026-02-01,Done,0
+PRJ-150,Sprint 2,2026-01-19,2026-02-01,Business Dev,Task,bd_b,3,2026-01-27,,In Progress,0
+PRJ-151,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_d,1,2026-01-24,2026-01-23,Done,0
+PRJ-152,Sprint 2,2026-01-19,2026-02-01,Business Dev,Bug,bd_e,2,2026-01-26,2026-01-25,Done,0
+PRJ-153,Sprint 2,2026-01-19,2026-02-01,Business Dev,Task,bd_b,3,2026-02-01,2026-02-01,Done,0
+PRJ-154,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_d,3,2026-01-30,2026-01-31,Done,0
+PRJ-155,Sprint 2,2026-01-19,2026-02-01,Business Dev,Task,bd_d,5,2026-01-29,2026-01-27,Done,0
+PRJ-156,Sprint 2,2026-01-19,2026-02-01,Business Dev,Task,bd_c,8,2026-01-22,2026-01-23,Done,0
+PRJ-157,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_d,5,2026-01-30,,In Progress,0
+PRJ-158,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_e,2,2026-01-28,2026-01-28,Done,0
+PRJ-159,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_e,5,2026-01-30,2026-02-01,Done,0
+PRJ-160,Sprint 2,2026-01-19,2026-02-01,Business Dev,Task,bd_e,1,2026-01-23,2026-01-24,Done,0
+PRJ-161,Sprint 2,2026-01-19,2026-02-01,Business Dev,Story,bd_b,5,2026-01-25,2026-01-25,Done,0
+PRJ-162,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_f,1,2026-02-05,2026-02-06,Done,0
+PRJ-163,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_e,8,2026-02-08,2026-02-11,Done,0
+PRJ-164,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_a,8,2026-02-09,,In Progress,0
+PRJ-165,Sprint 3,2026-02-02,2026-02-15,Software Dev,Story,dev_a,3,2026-02-10,2026-02-09,Done,0
+PRJ-166,Sprint 3,2026-02-02,2026-02-15,Software Dev,Bug,dev_b,3,2026-02-05,,In Progress,0
+PRJ-167,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_b,5,2026-02-12,,To Do,1
+PRJ-168,Sprint 3,2026-02-02,2026-02-15,Software Dev,Story,dev_f,1,2026-02-12,,In Progress,4
+PRJ-169,Sprint 3,2026-02-02,2026-02-15,Software Dev,Story,dev_f,2,2026-02-05,2026-02-03,Done,4
+PRJ-170,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_f,5,2026-02-11,2026-02-09,Done,0
+PRJ-171,Sprint 3,2026-02-02,2026-02-15,Software Dev,Story,dev_a,5,2026-02-15,2026-02-13,Done,0
+PRJ-172,Sprint 3,2026-02-02,2026-02-15,Software Dev,Story,dev_e,3,2026-02-06,2026-02-08,Done,0
+PRJ-173,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_d,2,2026-02-13,2026-02-15,Done,0
+PRJ-174,Sprint 3,2026-02-02,2026-02-15,Software Dev,Story,dev_c,3,2026-02-05,2026-02-06,Done,0
+PRJ-175,Sprint 3,2026-02-02,2026-02-15,Software Dev,Task,dev_f,2,2026-02-06,,To Do,0
+PRJ-176,Sprint 3,2026-02-02,2026-02-15,Business Dev,Task,bd_f,1,2026-02-07,2026-02-07,Done,0
+PRJ-177,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_a,8,2026-02-06,2026-02-06,Done,0
+PRJ-178,Sprint 3,2026-02-02,2026-02-15,Business Dev,Task,bd_b,1,2026-02-15,2026-02-15,Done,0
+PRJ-179,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_c,3,2026-02-06,2026-02-06,Done,0
+PRJ-180,Sprint 3,2026-02-02,2026-02-15,Business Dev,Task,bd_c,3,2026-02-10,2026-02-10,Done,0
+PRJ-181,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_d,3,2026-02-11,2026-02-11,Done,0
+PRJ-182,Sprint 3,2026-02-02,2026-02-15,Business Dev,Bug,bd_c,3,2026-02-10,2026-02-12,Done,0
+PRJ-183,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_d,3,2026-02-13,,To Do,0
+PRJ-184,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_a,1,2026-02-05,,In Progress,2
+PRJ-185,Sprint 3,2026-02-02,2026-02-15,Business Dev,Bug,bd_c,2,2026-02-06,2026-02-07,Done,2
+PRJ-186,Sprint 3,2026-02-02,2026-02-15,Business Dev,Bug,bd_d,2,2026-02-07,2026-02-10,Done,0
+PRJ-187,Sprint 3,2026-02-02,2026-02-15,Business Dev,Task,bd_b,5,2026-02-09,2026-02-09,Done,0
+PRJ-188,Sprint 3,2026-02-02,2026-02-15,Business Dev,Task,bd_b,1,2026-02-12,2026-02-11,Done,4
+PRJ-189,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_f,3,2026-02-15,,In Progress,0
+PRJ-190,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_b,1,2026-02-09,2026-02-09,Done,0
+PRJ-191,Sprint 3,2026-02-02,2026-02-15,Business Dev,Story,bd_f,8,2026-02-06,2026-02-05,Done,0
+PRJ-192,Sprint 3,2026-02-02,2026-02-15,Business Dev,Task,bd_d,3,2026-02-11,2026-02-12,Done,0
+PRJ-193,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_e,3,2026-02-27,2026-02-27,Done,0
+PRJ-194,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_c,5,2026-02-22,2026-02-22,Done,0
+PRJ-195,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_f,3,2026-02-20,2026-02-20,Done,0
+PRJ-196,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_f,2,2026-03-01,2026-03-01,Done,2
+PRJ-197,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_c,8,2026-02-19,2026-02-19,Done,0
+PRJ-198,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_f,5,2026-02-22,2026-02-22,Done,0
+PRJ-199,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_a,8,2026-02-27,2026-02-28,Done,0
+PRJ-200,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_a,5,2026-02-20,2026-02-20,Done,0
+PRJ-201,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_b,2,2026-03-01,2026-03-01,Done,0
+PRJ-202,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_b,5,2026-02-19,2026-02-19,Done,0
+PRJ-203,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_c,5,2026-02-23,2026-02-24,Done,0
+PRJ-204,Sprint 4,2026-02-16,2026-03-01,Software Dev,Task,dev_e,1,2026-02-28,2026-02-27,Done,3
+PRJ-205,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_f,5,2026-02-19,2026-02-17,Done,0
+PRJ-206,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_f,3,2026-02-21,2026-02-21,Done,0
+PRJ-207,Sprint 4,2026-02-16,2026-03-01,Software Dev,Story,dev_f,3,2026-02-26,2026-02-28,Done,0
+PRJ-208,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_b,5,2026-02-28,2026-02-27,Done,0
+PRJ-209,Sprint 4,2026-02-16,2026-03-01,Software Dev,Bug,dev_a,2,2026-02-26,2026-02-27,Done,0
+PRJ-210,Sprint 4,2026-02-16,2026-03-01,Business Dev,Task,bd_e,3,2026-02-22,2026-02-25,Done,0
+PRJ-211,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_a,2,2026-02-25,,In Progress,0
+PRJ-212,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_c,2,2026-02-19,2026-02-19,Done,0
+PRJ-213,Sprint 4,2026-02-16,2026-03-01,Business Dev,Bug,bd_c,8,2026-02-23,,In Progress,0
+PRJ-214,Sprint 4,2026-02-16,2026-03-01,Business Dev,Task,bd_d,2,2026-02-21,,To Do,0
+PRJ-215,Sprint 4,2026-02-16,2026-03-01,Business Dev,Bug,bd_a,2,2026-02-26,2026-02-25,Done,0
+PRJ-216,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_f,3,2026-02-22,,In Progress,0
+PRJ-217,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_b,3,2026-03-01,,To Do,0
+PRJ-218,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_a,1,2026-02-25,2026-02-25,Done,0
+PRJ-219,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_f,8,2026-02-19,2026-02-18,Done,2
+PRJ-220,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_b,3,2026-02-27,2026-02-27,Done,4
+PRJ-221,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_b,2,2026-02-26,2026-02-26,Done,0
+PRJ-222,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_c,5,2026-02-20,2026-02-20,Done,0
+PRJ-223,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_f,5,2026-02-23,,In Progress,0
+PRJ-224,Sprint 4,2026-02-16,2026-03-01,Business Dev,Story,bd_c,3,2026-02-24,2026-02-26,Done,0
+PRJ-225,Sprint 4,2026-02-16,2026-03-01,Business Dev,Bug,bd_a,5,2026-02-24,2026-02-23,Done,1
+PRJ-226,Sprint 4,2026-02-16,2026-03-01,Business Dev,Task,bd_a,2,2026-02-27,2026-02-26,Done,0
+PRJ-227,Sprint 5,2026-03-02,2026-03-15,Software Dev,Task,dev_f,5,2026-03-11,2026-03-11,Done,0
+PRJ-228,Sprint 5,2026-03-02,2026-03-15,Software Dev,Bug,dev_a,2,2026-03-14,,In Progress,0
+PRJ-229,Sprint 5,2026-03-02,2026-03-15,Software Dev,Story,dev_d,5,2026-03-08,2026-03-08,Done,0
+PRJ-230,Sprint 5,2026-03-02,2026-03-15,Software Dev,Task,dev_f,1,2026-03-08,2026-03-06,Done,0
+PRJ-231,Sprint 5,2026-03-02,2026-03-15,Software Dev,Story,dev_e,5,2026-03-12,2026-03-12,Done,0
+PRJ-232,Sprint 5,2026-03-02,2026-03-15,Software Dev,Bug,dev_d,2,2026-03-12,2026-03-10,Done,0
+PRJ-233,Sprint 5,2026-03-02,2026-03-15,Software Dev,Story,dev_e,1,2026-03-11,2026-03-11,Done,0
+PRJ-234,Sprint 5,2026-03-02,2026-03-15,Software Dev,Task,dev_a,3,2026-03-05,2026-03-05,Done,0
+PRJ-235,Sprint 5,2026-03-02,2026-03-15,Software Dev,Task,dev_d,5,2026-03-07,2026-03-07,Done,0
+PRJ-236,Sprint 5,2026-03-02,2026-03-15,Software Dev,Story,dev_a,3,2026-03-12,2026-03-12,Done,0
+PRJ-237,Sprint 5,2026-03-02,2026-03-15,Software Dev,Task,dev_c,3,2026-03-13,2026-03-13,Done,1
+PRJ-238,Sprint 5,2026-03-02,2026-03-15,Software Dev,Story,dev_b,8,2026-03-07,2026-03-07,Done,0
+PRJ-239,Sprint 5,2026-03-02,2026-03-15,Software Dev,Task,dev_f,5,2026-03-12,2026-03-13,Done,0
+PRJ-240,Sprint 5,2026-03-02,2026-03-15,Software Dev,Story,dev_a,3,2026-03-09,,To Do,0
+PRJ-241,Sprint 5,2026-03-02,2026-03-15,Software Dev,Bug,dev_e,2,2026-03-09,2026-03-09,Done,0
+PRJ-242,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_d,2,2026-03-09,2026-03-09,Done,0
+PRJ-243,Sprint 5,2026-03-02,2026-03-15,Business Dev,Task,bd_a,2,2026-03-10,2026-03-09,Done,0
+PRJ-244,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_c,8,2026-03-08,2026-03-09,Done,1
+PRJ-245,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_d,2,2026-03-10,2026-03-08,Done,0
+PRJ-246,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_c,3,2026-03-12,2026-03-11,Done,0
+PRJ-247,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_f,8,2026-03-06,,In Progress,0
+PRJ-248,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_d,2,2026-03-07,2026-03-07,Done,0
+PRJ-249,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_a,2,2026-03-09,2026-03-09,Done,0
+PRJ-250,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_e,3,2026-03-06,2026-03-06,Done,0
+PRJ-251,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_b,1,2026-03-09,2026-03-09,Done,0
+PRJ-252,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_f,5,2026-03-06,2026-03-06,Done,0
+PRJ-253,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_f,2,2026-03-05,2026-03-05,Done,0
+PRJ-254,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_c,3,2026-03-14,2026-03-14,Done,0
+PRJ-255,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_d,2,2026-03-09,2026-03-07,Done,0
+PRJ-256,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_d,2,2026-03-15,2026-03-15,Done,0
+PRJ-257,Sprint 5,2026-03-02,2026-03-15,Business Dev,Story,bd_e,5,2026-03-13,2026-03-13,Done,0
+PRJ-258,Sprint 5,2026-03-02,2026-03-15,Business Dev,Bug,bd_e,2,2026-03-05,2026-03-05,Done,0
+PRJ-259,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_e,3,2026-03-23,2026-03-22,Done,0
+PRJ-260,Sprint 6,2026-03-16,2026-03-29,Software Dev,Task,dev_e,2,2026-03-20,2026-03-20,Done,0
+PRJ-261,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_a,3,2026-03-24,2026-03-24,Done,0
+PRJ-262,Sprint 6,2026-03-16,2026-03-29,Software Dev,Bug,dev_c,5,2026-03-26,2026-03-28,Done,0
+PRJ-263,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_f,3,2026-03-24,2026-03-24,Done,0
+PRJ-264,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_e,5,2026-03-25,2026-03-25,Done,0
+PRJ-265,Sprint 6,2026-03-16,2026-03-29,Software Dev,Task,dev_b,3,2026-03-23,2026-03-23,Done,1
+PRJ-266,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_b,2,2026-03-27,2026-03-26,Done,0
+PRJ-267,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_a,2,2026-03-27,2026-03-27,Done,0
+PRJ-268,Sprint 6,2026-03-16,2026-03-29,Software Dev,Bug,dev_f,5,2026-03-27,2026-03-27,Done,0
+PRJ-269,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_e,2,2026-03-23,2026-03-25,Done,0
+PRJ-270,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_f,8,2026-03-28,2026-03-28,Done,0
+PRJ-271,Sprint 6,2026-03-16,2026-03-29,Software Dev,Task,dev_f,2,2026-03-23,,To Do,0
+PRJ-272,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_e,5,2026-03-21,2026-03-20,Done,0
+PRJ-273,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_d,2,2026-03-24,2026-03-25,Done,0
+PRJ-274,Sprint 6,2026-03-16,2026-03-29,Software Dev,Story,dev_c,1,2026-03-19,2026-03-18,Done,0
+PRJ-275,Sprint 6,2026-03-16,2026-03-29,Software Dev,Bug,dev_f,2,2026-03-23,2026-03-23,Done,0
+PRJ-276,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_c,1,2026-03-29,2026-03-28,Done,0
+PRJ-277,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_e,5,2026-03-20,2026-03-20,Done,0
+PRJ-278,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_a,8,2026-03-26,,In Progress,0
+PRJ-279,Sprint 6,2026-03-16,2026-03-29,Business Dev,Story,bd_b,2,2026-03-29,2026-03-27,Done,0
+PRJ-280,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_b,5,2026-03-27,2026-03-27,Done,0
+PRJ-281,Sprint 6,2026-03-16,2026-03-29,Business Dev,Story,bd_b,5,2026-03-24,2026-03-22,Done,0
+PRJ-282,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_e,1,2026-03-19,2026-03-19,Done,0
+PRJ-283,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_a,2,2026-03-28,2026-03-28,Done,0
+PRJ-284,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_e,2,2026-03-20,2026-03-20,Done,0
+PRJ-285,Sprint 6,2026-03-16,2026-03-29,Business Dev,Story,bd_c,2,2026-03-24,2026-03-24,Done,0
+PRJ-286,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_b,2,2026-03-20,2026-03-20,Done,0
+PRJ-287,Sprint 6,2026-03-16,2026-03-29,Business Dev,Story,bd_c,2,2026-03-23,2026-03-23,Done,0
+PRJ-288,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_c,2,2026-03-26,2026-03-26,Done,0
+PRJ-289,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_a,1,2026-03-19,2026-03-18,Done,0
+PRJ-290,Sprint 6,2026-03-16,2026-03-29,Business Dev,Task,bd_d,3,2026-03-28,2026-03-28,Done,0
+PRJ-291,Sprint 7,2026-03-30,2026-04-12,Software Dev,Bug,dev_a,1,2026-04-05,2026-04-05,Done,0
+PRJ-292,Sprint 7,2026-03-30,2026-04-12,Software Dev,Task,dev_c,3,2026-04-11,,In Progress,2
+PRJ-293,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_a,3,2026-04-04,2026-04-03,Done,1
+PRJ-294,Sprint 7,2026-03-30,2026-04-12,Software Dev,Task,dev_b,5,2026-04-03,2026-04-03,Done,2
+PRJ-295,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_c,5,2026-04-04,,In Progress,3
+PRJ-296,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_f,1,2026-04-04,2026-04-04,Done,0
+PRJ-297,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_b,3,2026-04-02,,To Do,0
+PRJ-298,Sprint 7,2026-03-30,2026-04-12,Software Dev,Task,dev_c,8,2026-04-05,2026-04-05,Done,0
+PRJ-299,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_b,1,2026-04-09,2026-04-09,Done,0
+PRJ-300,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_c,3,2026-04-06,2026-04-06,Done,0
+PRJ-301,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_d,3,2026-04-12,2026-04-12,Done,0
+PRJ-302,Sprint 7,2026-03-30,2026-04-12,Software Dev,Task,dev_a,2,2026-04-07,2026-04-07,Done,0
+PRJ-303,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_b,5,2026-04-07,2026-04-07,Done,0
+PRJ-304,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_c,8,2026-04-11,,In Progress,0
+PRJ-305,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_d,3,2026-04-12,2026-04-12,Done,0
+PRJ-306,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_e,1,2026-04-08,2026-04-08,Done,0
+PRJ-307,Sprint 7,2026-03-30,2026-04-12,Software Dev,Bug,dev_e,2,2026-04-06,2026-04-09,Done,0
+PRJ-308,Sprint 7,2026-03-30,2026-04-12,Software Dev,Story,dev_d,2,2026-04-12,2026-04-11,Done,0
+PRJ-309,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_f,8,2026-04-08,2026-04-08,Done,0
+PRJ-310,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_d,5,2026-04-10,2026-04-10,Done,0
+PRJ-311,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_d,3,2026-04-07,2026-04-07,Done,0
+PRJ-312,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_d,3,2026-04-07,2026-04-06,Done,0
+PRJ-313,Sprint 7,2026-03-30,2026-04-12,Business Dev,Bug,bd_f,3,2026-04-12,2026-04-10,Done,0
+PRJ-314,Sprint 7,2026-03-30,2026-04-12,Business Dev,Bug,bd_d,3,2026-04-08,2026-04-08,Done,1
+PRJ-315,Sprint 7,2026-03-30,2026-04-12,Business Dev,Task,bd_b,5,2026-04-07,,To Do,4
+PRJ-316,Sprint 7,2026-03-30,2026-04-12,Business Dev,Task,bd_e,1,2026-04-03,2026-04-03,Done,0
+PRJ-317,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_b,3,2026-04-06,2026-04-06,Done,0
+PRJ-318,Sprint 7,2026-03-30,2026-04-12,Business Dev,Task,bd_c,1,2026-04-12,2026-04-12,Done,0
+PRJ-319,Sprint 7,2026-03-30,2026-04-12,Business Dev,Bug,bd_c,1,2026-04-12,2026-04-12,Done,0
+PRJ-320,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_e,3,2026-04-09,2026-04-09,Done,0
+PRJ-321,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_f,5,2026-04-02,2026-04-02,Done,0
+PRJ-322,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_d,8,2026-04-04,2026-04-06,Done,0
+PRJ-323,Sprint 7,2026-03-30,2026-04-12,Business Dev,Story,bd_d,2,2026-04-02,2026-04-02,Done,0
+PRJ-324,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_e,2,2026-04-21,2026-04-21,Done,0
+PRJ-325,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_c,2,2026-04-20,,To Do,0
+PRJ-326,Sprint 8,2026-04-13,2026-04-26,Software Dev,Task,dev_b,2,2026-04-22,2026-04-22,Done,0
+PRJ-327,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_f,2,2026-04-23,2026-04-23,Done,0
+PRJ-328,Sprint 8,2026-04-13,2026-04-26,Software Dev,Task,dev_f,3,2026-04-19,2026-04-19,Done,0
+PRJ-329,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_d,2,2026-04-23,2026-04-23,Done,0
+PRJ-330,Sprint 8,2026-04-13,2026-04-26,Software Dev,Bug,dev_e,1,2026-04-24,2026-04-24,Done,0
+PRJ-331,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_c,3,2026-04-19,2026-04-19,Done,0
+PRJ-332,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_d,5,2026-04-20,2026-04-19,Done,0
+PRJ-333,Sprint 8,2026-04-13,2026-04-26,Software Dev,Bug,dev_d,2,2026-04-20,2026-04-19,Done,0
+PRJ-334,Sprint 8,2026-04-13,2026-04-26,Software Dev,Task,dev_b,2,2026-04-19,2026-04-21,Done,0
+PRJ-335,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_c,2,2026-04-24,2026-04-23,Done,0
+PRJ-336,Sprint 8,2026-04-13,2026-04-26,Software Dev,Task,dev_e,3,2026-04-25,2026-04-26,Done,0
+PRJ-337,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_e,3,2026-04-20,2026-04-19,Done,0
+PRJ-338,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_e,2,2026-04-26,2026-04-25,Done,0
+PRJ-339,Sprint 8,2026-04-13,2026-04-26,Software Dev,Bug,dev_b,2,2026-04-25,2026-04-25,Done,0
+PRJ-340,Sprint 8,2026-04-13,2026-04-26,Software Dev,Story,dev_d,8,2026-04-21,,To Do,0
+PRJ-341,Sprint 8,2026-04-13,2026-04-26,Business Dev,Task,bd_d,1,2026-04-16,2026-04-16,Done,0
+PRJ-342,Sprint 8,2026-04-13,2026-04-26,Business Dev,Bug,bd_a,1,2026-04-25,2026-04-26,Done,0
+PRJ-343,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_f,2,2026-04-25,2026-04-25,Done,0
+PRJ-344,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_a,2,2026-04-22,2026-04-20,Done,0
+PRJ-345,Sprint 8,2026-04-13,2026-04-26,Business Dev,Bug,bd_e,3,2026-04-25,2026-04-25,Done,0
+PRJ-346,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_a,3,2026-04-17,2026-04-16,Done,0
+PRJ-347,Sprint 8,2026-04-13,2026-04-26,Business Dev,Task,bd_f,3,2026-04-20,2026-04-20,Done,0
+PRJ-348,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_e,1,2026-04-18,2026-04-16,Done,0
+PRJ-349,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_d,1,2026-04-24,2026-04-24,Done,0
+PRJ-350,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_d,3,2026-04-20,2026-04-20,Done,0
+PRJ-351,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_a,8,2026-04-20,2026-04-20,Done,0
+PRJ-352,Sprint 8,2026-04-13,2026-04-26,Business Dev,Task,bd_d,2,2026-04-18,2026-04-19,Done,0
+PRJ-353,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_c,2,2026-04-18,2026-04-18,Done,0
+PRJ-354,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_c,2,2026-04-25,2026-04-25,Done,0
+PRJ-355,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_a,5,2026-04-26,2026-04-24,Done,0
+PRJ-356,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_a,5,2026-04-22,2026-04-24,Done,0
+PRJ-357,Sprint 8,2026-04-13,2026-04-26,Business Dev,Story,bd_f,3,2026-04-25,2026-04-25,Done,0
+PRJ-358,Sprint 8,2026-04-13,2026-04-26,Business Dev,Bug,bd_e,3,2026-04-18,2026-04-18,Done,0
